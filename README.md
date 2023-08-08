@@ -19,13 +19,13 @@ Data: A folder containing the source data used in the project.
 Projects
 
 1. Taxi Service A/B Testing Project: Analyzing the results of an A/B test to assess the effectiveness of changes in a taxi service.
-[TAXI](https://github.com/oy-repin/AB_tests/blob/main/AB-tests_project.ipynb)
+[TAXI](https://github.com/oy-repin/AB_tests/blob/main/AB_tests_taxi.ipynb)
 
 2. Social Network A/B Testing Project: Investigating the impact of design changes on user behavior within a social network.
-[Social Network](https://github.com/oy-repin/AB_tests/blob/main/anova%20(1).ipynb)
+[Social Network](https://github.com/oy-repin/AB_tests/blob/main/AB-tests_social_network.ipynb)
 
 3. Delivery App A/B Testing Project: Evaluating the influence of changes in the user interface on conversion rates within a mobile application.
-[Delivery App](https://github.com/oy-repin/AB_tests/blob/main/AB-tests_project.ipynb)
+[Delivery App](https://github.com/oy-repin/AB_tests/blob/main/AB-tests_delivery_app.ipynb)
 
 Using this Repository
 To explore the projects, navigate to the respective directory and open the Jupyter Notebook. Here, you will find analysis steps, code explanations, and visualizations.
