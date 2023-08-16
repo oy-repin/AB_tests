@@ -27,7 +27,6 @@ Projects
 3. Delivery App A/B Testing Project: Evaluating the influence of changes in the user interface on conversion rates within a mobile application.
 [Delivery App](https://github.com/oy-repin/AB_tests/blob/main/AB-tests_delivery_app.ipynb)
 
-Using this Repository
-To explore the projects, navigate to the respective directory and open the Jupyter Notebook. Here, you will find analysis steps, code explanations, and visualizations.
+Here, you will find analysis steps, code explanations, and visualizations.
 
-Thank you for visiting! If you have any questions or comments, feel free to reach out to me.
+
