@@ -6,13 +6,13 @@ Welcome to my repository dedicated to A/B testing projects! Here you will find v
 About the Projects
 Each project in this repository represents an A/B testing investigation aimed at assessing the effectiveness of changes and making informed decisions based on statistical analyses. During development, I utilized the following tools and skills:
 
-# Programming Language: *Python*
+### Programming Language: *Python*
 
-# Libraries: *pandas, numpy, scipy, matplotlib, seaborn*
+### Libraries: *pandas, numpy, scipy, matplotlib, seaborn*
 
-# Statistical Analysis: *Z-tests, t-tests, confidence intervals*
+### Statistical Analysis: *Z-tests, t-tests, confidence intervals*
 
-# Visualization: *graphs, charts, data distributions*
+### Visualization: *graphs, charts, data distributions*
 
 Repository Structure
 Each project resides within a separate directory and contains the following elements:
